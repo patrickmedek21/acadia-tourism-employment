@@ -50,7 +50,7 @@ The analysis was conducted in R and included:
 
 - `final-project.R` — primary analysis and visualization code
 - `generate-employment-data.R` — employment data preparation
-- `Medek Final Report.pdf` — complete project report
+- `final-report.pdf` — complete project report
 - `final-presentation.pdf` — project presentation
 
 ## Tools
